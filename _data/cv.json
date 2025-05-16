@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Everton Silva",
+    "name": "Everton José da Silva",
     "email": "evertonjosedasilva570@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://evertonjdasilva.github.io/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Almada",
+      "countryCode": "PT",
+      "region": "Setúbal"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&user=MywXxlwAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://github.com/EvertonJdaSilva"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://orcid.org/0000-0002-3627-3030"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "NOVA University of Lisbon",
+      "area": "Ph.D in Mathematics",
+      "studyType": "Constrained Multiobjective Derivative-free Optimization",
+      "startDate": "2020",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Paraná",
+      "area": "M.S. in Mathematics",
+      "studyType": "Integral Characterizations for Global Optimality: Mono and Multiobjective Cases (in Portuguese)",
+      "startDate": "2018",
+      "endDate": "2020",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Federal University of Paraná",
+      "area": "B.S. in Mathematics",
+      "studyType": "Qualification Conditions for Nonlinear Programming Problems (in Portuguese)",
+      "startDate": "2014",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
