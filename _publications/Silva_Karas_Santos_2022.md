@@ -1,7 +1,7 @@
 ---
 title: "Integral Global Optimality Conditions and an Algorithm for Multiobjective Problems"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/Silva_Karas_Santos_2022
 excerpt: 'In this work, we propose integral global optimality conditions for multiobjective problems not necessarily differentiable. The integral characterization, already known for single objective problems, are extended to multiobjective problems by weighted sum and Chebyshev weighted scalarizations. Using this last scalarization, we propose an algorithm for obtaining an approximation of the weak Pareto front whose effectiveness is illustrated by solving a collection of multiobjective test problems.'
 date: 2024-02-17

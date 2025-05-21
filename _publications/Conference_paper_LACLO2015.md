@@ -1,7 +1,7 @@
 ---
 title: "Desenvolvimento de Projetos em Robótica Educacional A inserção da Expressão Gráfica no ensino"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/Conference_paper_LACLO2015
 excerpt: 'This paper describes the implementation of projects development in the classroom using educational robotics as tool. The project-based learning shows as a great pedagogical practice to re-enchant the classrooms, in addition to providing a development of the currently required intellectual abilities. The experiment conducted consisted of a simple challenge, which students should solve using a robot, to develop the robot were used the methodologies of brainstorm and morphological matrix. At the end it was concluded that the proposal was satisfactory to be able to play an interdisciplinary activity, where the contents were experienced with meaning and intellectual and social skills were worked instinctively.'
 date: 2015-10-01
