@@ -4,18 +4,18 @@
     "email": "evertonjosedasilva570@gmail.com",
     "phone": "",
     "website": "https://evertonjdasilva.github.io/",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. Candidate in Mathematics at NOVA University of Lisbon, focusing on research in   Optimization. He holds a bachelor's and a master’s in Mathematics from the Federal University of Paraná, Brazil, and his work has received recognition, including the Curta Ciência Award 2021 for excellence in research. Supported by a scholarship from the Foundation for Science and Technology (FCT), Portugal, he is finalizing his doctoral thesis at the Center for Mathematics and Applications (NOVA MATH). Everton’s research interests lie in optimization, modeling, algorithmic development, and computational implementation, particularly within nonlinear optimization, including derivative-free and multiobjective optimization.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Setúbal",
-      "countryCode": "PT",
-      "region": "Setúbal"
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Everton J. Silva",
         "url": "https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&user=MywXxlwAAAAJ"
       },
       {
@@ -30,7 +30,7 @@
       }
     ]
   },
-  "work": [],
+  "work": [ ],
   "education": [
     {
       "institution": "NOVA University of Lisbon",
@@ -61,7 +61,7 @@
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": ["Portuguese", "English"],
   "interests": [],
   "references": [],
   "publications": [
