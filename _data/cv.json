@@ -85,7 +85,7 @@
       "releaseDate": "2022-07-18",
       "website": "http://academicpages.github.io/files/Silva_Karas_Santos_2022.pdf",
       "summary": "In this work, we propose integral global optimality conditions for multiobjective problems not necessarily differentiable. The integral characterization, already known for single objective problems, are extended to multiobjective problems by weighted sum and Chebyshev weighted scalarizations. Using this last scalarization, we propose an algorithm for obtaining an approximation of the weak Pareto front whose effectiveness is illustrated by solving a collection of multiobjective test problems."
-    },
+    },  
     {
       "name": "Desenvolvimento de Projetos em Robótica Educacional A inserção da Expressão Gráfica no ensino",
       "publisher": "Anais da X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem (LACLO 2015)",
