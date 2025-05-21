@@ -39,7 +39,7 @@
       "startDate": "2020",
       "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": ["Decision Sciences", "Modeling in Operations Research", "Graph Theory", "Topics in Combinatorial Optimization", "Topics in Nonlinear Optimization", "Seminar in Operations Research"]
     },
     {
       "institution": "Federal University of Paraná",
@@ -48,7 +48,7 @@
       "startDate": "2018",
       "endDate": "2020",
       "gpa": null,
-      "courses": []
+      "courses": ["Analysis in Rn", "Applied Linear Algebra", "Supervised Internship in Teaching Practice", "Operational Research", "Special Topics in Optimization: Global Optimality for Single and Multi-Objective Problems", "Applied Differential Equations"]
     },
     {
       "institution": "Federal University of Paraná",
@@ -57,41 +57,41 @@
       "startDate": "2014",
       "endDate": "2018",
       "gpa": null,
-      "courses": []
+      "courses": ["Linear Algebra I", "Calculus (I, II, III)", "Mathematical Supplements", "Functions", "Fundamentals of Geometry", "Analytical Geometry", "Geometric Drawing (I, II)", "Statistics II", "Physics (I, II, III)", "Number Theory", "Topics of Mathematics I", "Mathematical Supplements", "Dynamic Geometry", "Ring Theory", "Didactics", "Fundamentals of Analysis", "Geometry in Education", "Brazilian Education Policy and Planning", "Educational Psychology", "Group Theory", "Analysis on the Line", "Supervised Internship in Interactive Processes in Education", "Mathematics in Elementary Education", "Mathematics Teaching Methodology", "Organization of Pedagogical Work in School", "Research in Mathematics Education", "Ring Theory", "Probability Calculus A", "Mathematics in High School", "Teaching Practice in Mathematics (I, II)", "Euclidean and Non-Euclidean Geometries", "Introduction to Differential Equations Partial"]
     }
   ],
   "skills": [],
   "languages": ["Portuguese", "English"],
-  "interests": [],
+  "interests": ["My research interests primarily focus on nonlinear optimization, specifically in the areas of: Derivative-free optimization, Nonlinear Optimization, Global optimization, Constrained optimization, Multi-objective optimization, and Many-objective optimization"],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Nonlinear Derivative-free Constrained Optimization with a Penalty-Interior Point Method and Direct Search",
+      "publisher": "arXiv",
+      "releaseDate": "2025-04-24",
+      "website": "http://academicpages.github.io/files/Brilli_Custodio_Liuzzi_Silva_2025.pdf",
+      "summary": "In this work, we propose the joint use of a mixed penalty-interior point method and direct search, for addressing nonlinearly constrained derivative-free optimization problems. A merit function is considered, wherein the set of nonlinear inequality constraints is divided into two groups: one treated with a logarithmic barrier approach, and another, along with the equality constraints, addressed using a penalization term. This strategy, is adapted and incorporated into a direct search method, enabling the effective handling of general nonlinear constraints. Convergence to KKT-stationary points is established under continuous differentiability assumptions, without requiring any kind of convexity. Using CUTEst test problems, numerical experiments demonstrate the robustness, efficiency, and overall effectiveness of the proposed method, when compared with state-of-the-art solvers."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "An Inexact Restoration Direct Multisearch Filter Approach to Multiobjective Constrained Derivative-free Optimization",
+      "publisher": "Optimization Methods and Software",
+      "releaseDate": "2024-10-29",
+      "website": "http://academicpages.github.io/files/DMSFILTERIR_Silva_Custodio.pdf",
+      "summary": "Direct Multisearch (DMS) is a well-established class of methods for multiobjective derivative-free optimization, where constraints are addressed by an extreme barrier approach, only evaluating feasible points. In this work, we propose the replacement of this extreme barrier approach by a filter strategy, combined with an inexact feasibility restoration step, to address constraints in the DMS framework. The filter approach treats feasibility as an additional component of the objective function that needs to be minimized. The inexact restoration step attempts to generate new feasible points, contributing to prioritize this feasibility, a requirement for the good performance of any filter approach. Theoretical results are provided, analysing the different types of sequences of points generated by the new algorithm, and numerical experiments on a set of nonlinearly constrained biobjective problems are reported, stating the good algorithmic performance of the proposed approach."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Integral Global Optimality Conditions and an Algorithm for Multiobjective Problems",
+      "publisher": "Numerical Functional Analysis and Optimization",
+      "releaseDate": "2022-07-18",
+      "website": "http://academicpages.github.io/files/Silva_Karas_Santos_2022.pdf",
+      "summary": "In this work, we propose integral global optimality conditions for multiobjective problems not necessarily differentiable. The integral characterization, already known for single objective problems, are extended to multiobjective problems by weighted sum and Chebyshev weighted scalarizations. Using this last scalarization, we propose an algorithm for obtaining an approximation of the weak Pareto front whose effectiveness is illustrated by solving a collection of multiobjective test problems."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Desenvolvimento de Projetos em Robótica Educacional A inserção da Expressão Gráfica no ensino",
+      "publisher": "Anais da X Conferência Latino-Americana de Objetos e Tecnologias de Aprendizagem (LACLO 2015)",
+      "releaseDate": "2015",
+      "website": "http://academicpages.github.io/files/LACLO_2015.pdf",
+      "summary": "This paper describes the implementation of projects development in the classroom using educational robotics as tool. The project-based learning shows as a great pedagogical practice to re-enchant the classrooms, in addition to providing a development of the currently required intellectual abilities. The experiment conducted consisted of a simple challenge, which students should solve using a robot, to develop the robot were used the methodologies of brainstorm and morphological matrix. At the end it was concluded that the proposal was satisfactory to be able to play an interdisciplinary activity, where the contents were experienced with meaning and intellectual and social skills were worked instinctively."
     }
   ],
   "presentations": [
