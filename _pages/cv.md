@@ -130,8 +130,9 @@ Research Centers
 ======
 * Member of the Center for Mathematics and Applications of NOVA University of Lisbon (NOVA MATH), since September 2021.
 
-Languages | Language |Speaking | Reading| Writing | Listening | Peer-review
+Languages 
 =====
+Language |Speaking | Reading| Writing | Listening | Peer-review
 *	Portuguese – Mother tongue
 *	English – Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency(C1)
 *	Italian – Beginner (A1) |Beginner (A1) |Beginner (A1) | Elementary (A2) | Beginner (A1)
