@@ -9,12 +9,13 @@ date: 2023-06-23
 location: "Budapest, Hungary"
 ---
 
-## EUROPT 2023 - Workshop on Advances in Continuous Optimization
+UROPT 2023 - Workshop on Advances in Continuous Optimization
+=====
 Corvinus University of Budapest, Hungary
 [More information here](http://www.europt.hu/)
 
-A Direct Multisearch Inexact Restoration Filter Method for Biobjective Optimization
-=====
+## A Direct Multisearch Inexact Restoration Filter Method for Biobjective Optimization
+
 Abstract: We propose the integration of an inexact restoration filter approach in Direct Multisearch, to address biobjective optimization problems with general constraints. Like in any filter approach, infeasibility is addressed as an additional objective that needs to be minimized. The inexact restoration approach attempts to recover feasibility when the poll center is infeasible. We will detail the proposed algorithm, provide theoretical results on convergence of linked sequences, and report numerical experiments that state the good performance of this approach to address general constraints.
 
 Joint work with Ana L. Custódio

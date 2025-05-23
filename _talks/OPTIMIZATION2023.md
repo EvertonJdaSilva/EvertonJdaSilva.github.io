@@ -9,12 +9,12 @@ date: 2023-07-25
 location: "Averiro, Portugal"
 ---
 
-## OPTIMIZATION 2023 - 10th edition of a series of international conferences in optimization
+OPTIMIZATION 2023 - 10th edition of a series of international conferences in optimization
+=====
 University of Aveiro, Aveiro, Portugal
 [More information here](https://optimization2023.web.ua.pt/index.html)
 
-A Direct Multisearch Inexact Restoration Filter Method for Biobjective Optimization
-=====
+## A Direct Multisearch Inexact Restoration Filter Method for Biobjective Optimization
 The main objective of the Optimization 2023 conference is to bring together researchers and practitioners from different areas and backgrounds, but with common interests in Optimization. This meeting has international recognition as an important forum of discussion and exchange of ideas. It is the 10th edition of a series of international conferences in optimization organized in Portugal under the auspices of APDIO (the Portuguese Operations Research Society). The conference will take place in the University of Aveiro, July 24-26, 2023.
 
 
