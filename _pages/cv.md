@@ -15,12 +15,12 @@ Education
   * Title: Constrained Multiobjective Derivative-free Optimization 
   * Adviser: Professor Ana Luísa Custódio
 
-*(September 2018 to July 2020) MSc. in Mathematics: Federal University of Paraná, Brazil.
+* (September 2018 to July 2020) MSc. in Mathematics: Federal University of Paraná, Brazil.
   * Title: Integral Characterizations for Global Optimality: Mono and Multiobjective Cases (in Portuguese)
   * Adviser: Professor Elizabeth Wegner Karas
   * Co-adviser: Professor Lucelina Batista dos Santos
 
-*(February 2014 to July 2018) BSc. in Mathematics: Federal University of Paraná, Brazil.
+* (February 2014 to July 2018) BSc. in Mathematics: Federal University of Paraná, Brazil.
   * Title: Qualification Conditions for Nonlinear Programming Problems (in Portuguese)
   * Adviser: Professor Lucelina Batista dos Santos
 
