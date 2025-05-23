@@ -52,6 +52,15 @@ Teaching & Mentoring
 * Module of Multiobjective Linear Optimization of the Linear Optimization Course part of the MSc. Program in Analysis and Engineering of Big Data at NOVA University of Lisbon, 4  classes each with 2 hours, prepared the classes, developed complementary material, and participated in students’ evaluation (June 2022).
 * On-site monitor of 13th Edition of Junior Scientific Initiation Program PIC-OBMEP, Federal University of Paraná, Brazil (January to July 2018).
 
+Research interests
+=====
+My research interests primarily focus on nonlinear optimization, specifically in the areas of:
+* Derivative-free optimization
+* Nonlinear Optimization
+* Global optimization
+* Constrained optimization
+* Multi-objective optimization
+* Many-objective optimization
 
 Awards (year)
 ======
@@ -90,6 +99,10 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Theses
+======
+* Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). Master thesis, Federal University of Paraná. https://acervodigital.ufpr.br/handle/1884/68962. 
   
 Talks
 ======
@@ -97,6 +110,16 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
+* Participation without comunication 
+  *	Portuguese Meeting on Biomathematics (EPB). 2022.
+  *	VIII Congreso de Matemática Aplicada, Computacional e Industrial - Universidade Nacional de La Plata. 2021.
+  * EEMAC - Encontro Especial de Matemática Aplicada e Computacional. 2019. 
+  *	XI Simpósio de Análise Numérica e Otimização. 2019.
+  *	X Simpósio de Análise Numérica e  Otimização. 2018. 
+  *	I Formação Docente do IFPR. Contemplando a geometria em obras de artes. 2015.
+  *	J3M - Jornada da Matemática, Matemática Aplicada e Educação Matemática. 2015.
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -106,3 +129,10 @@ Teaching
 Research Centers
 ======
 * Member of the Center for Mathematics and Applications of NOVA University of Lisbon (NOVA MATH), since September 2021.
+
+Languages | Language |Speaking | Reading| Writing | Listening | Peer-review
+=====
+*	Portuguese – Mother tongue
+*	English – Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency(C1)
+*	Italian – Beginner (A1) |Beginner (A1) |Beginner (A1) | Elementary (A2) | Beginner (A1)
+*	Spanish – Beginner (A1) | Intermediate (B1) | Beginner (A1) | Intermediate (B1) | Elementary (A2)
