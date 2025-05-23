@@ -3,7 +3,9 @@ title: "Improving the performance and moving to newer dimensions in Derivative-F
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: SP
 ---
+## Improving the performance and moving to newer dimensions in Derivative-Free Optimization
 Optimization Research grant PTDC/MAT-APL/28400/2017 funded by FCT (October 2018 - September 2022)
+[More informations here](https://docentes.fct.unl.pt/algb/pages/boostdfo)
 
 The goal of this project is to develop efficient and robust algorithms for Global and/or Multiobjective Derivative-free Optimization. This type of optimization is typically required in complex scientific/industrial applications, where the function evaluation is time consuming and derivatives are not available for use, neither can be numerically approximated. Often problems present several conflicting objectives or users aspire to obtain global solutions. 
 
