@@ -1,7 +1,7 @@
 ---
 title: "Improving the performance and moving to newer dimensions in Derivative-Free Optimization"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: SP
+collection: portfolio
 ---
 ## Improving the performance and moving to newer dimensions in Derivative-Free Optimization
 Optimization Research grant PTDC/MAT-APL/28400/2017 funded by FCT (October 2018 - September 2022)
