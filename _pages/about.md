@@ -11,6 +11,6 @@ Welcome to my academic corner! I am Everton Silva, a mathematician driven by a p
 
 My dedication to advancing the field extends beyond research papers. I am adept at implementing optimization algorithms, primarily in MATLAB, and collaborate efficiently using platforms like GitHub. Moreover, my proficiency extends to Python, Julia, and Fortran, ensuring versatility in computational approaches.
 
-In recognition of my contributions, my master's thesis on global optimality conditions earned the esteemed Curta Ciência Award in 2021 from the Federal University of Paraná. Complementing my research prowess, I have garnered valuable teaching experience as a assistant professor, guiding students through optimization courses and mentoring undergraduate students.
+In recognition of my contributions, my master's thesis on global optimality conditions earned the esteemed Curta Ciência Award in 2021 from the Federal University of Paraná. Complementing my research prowess, I have garnered valuable teaching experience as an assistant professor, guiding students through optimization courses and mentoring undergraduate students.
 
 Explore my journey through mathematics and optimization, where rigorous theory meets efficient code and vibrant collaboration. And because life itself is a multiobjective optimization problem, I strive for Pareto efficiency between research, code, and coffee—ensuring my coffee-to-work ratio is always maximally satisfying!
