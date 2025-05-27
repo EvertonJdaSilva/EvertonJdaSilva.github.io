@@ -3,7 +3,7 @@ title: "A Direct Multisearch Inexact Restoration Filter Method for Biobjective O
 collection: talks
 type: "Congresses, Conferences, and Workshops"
 permalink: /talks/EUROPT2023
-slidesurl: 'http://academicpages.github.io/files/EUROTP2023_Slides.pdf'
+slidesurl: 'http://evertonjdasilva.github.io/files/EUROTP2023_Slides.pdf'
 venue: "OPTIMIZATION 2023 - 10th edition of a series of international conferences in optimization"
 date: 2023-07-25
 location: "Averiro, Portugal"

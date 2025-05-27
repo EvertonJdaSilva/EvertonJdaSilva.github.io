@@ -3,7 +3,7 @@ title: "An Inexact Restoration Direct Multisearch Filter Approach to Constrained
 collection: talks
 type: "Seminars in Universities and Research Centers"
 permalink: /talks/SAPIENZA2023
-slidesurl: 'http://academicpages.github.io/files/SAPIENZA_Slides.pdf'
+slidesurl: 'http://evertonjdasilva.github.io/files/SAPIENZA_Slides.pdf'
 venue: "Department of Computer, Control and Management Engineering of Sapienza University of Rome"
 date: 2023-12-13
 location: "Rome, Italy"

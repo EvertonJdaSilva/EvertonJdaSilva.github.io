@@ -3,7 +3,7 @@ title: "Addressing Constraints in Direct Multisearch"
 collection: talks
 type: "Seminars in Universities and Research Centers"
 permalink: /talks/UNICAMP2025
-slidesurl: 'http://academicpages.github.io/files/UNICAMP2025.pdf'
+slidesurl: 'http://evertonjdasilva.github.io/files/UNICAMP2025.pdf'
 venue: "Institute of Mathematics, Statistics and Scientific Computing of University of Campinas"
 date: 2025-03-24
 location: "Campinas, SP, Brazil"

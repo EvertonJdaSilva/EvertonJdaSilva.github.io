@@ -3,7 +3,7 @@ title: "A Direct Multisearch Filter Method for Biobjective Optimization"
 collection: talks
 type: "Congresses, Conferences, and Workshops"
 permalink: /talks/EUROPT2022
-slidesurl: 'http://academicpages.github.io/files/EUROPT2022_Presentation.pdf'
+slidesurl: 'http://evertonjdasilva.github.io/files/EUROPT2022_Presentation.pdf'
 venue: "EUROPT 2022 - Workshop on Advances in Continuous Optimization"
 date: 2022-07-30
 location: "Caparica, Portugal"
