@@ -9,7 +9,7 @@ date: 2023-06-23
 location: "Budapest, Hungary"
 ---
 
-UROPT 2023 - Workshop on Advances in Continuous Optimization
+EUROPT 2023 - Workshop on Advances in Continuous Optimization
 =====
 Corvinus University of Budapest, Hungary
 [More information here](http://www.europt.hu/)
