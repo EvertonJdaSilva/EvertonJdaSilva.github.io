@@ -1,19 +1,14 @@
 ---
-title: "Improving the performance and moving to newer dimensions in Derivative-Free Optimization"
-excerpt: "The goal of this project is to develop efficient and robust algorithms for Global and/or Multiobjective Derivative-free Optimization <br/><img src='/images/DFO_Toolbox.png'>"
+title: "Educational technologies in graphic expression: Exploring the paths of robotics (In Portuguese)"
+excerpt: "This project addresses the lack of interest and dropout rates in exact and technological sciences by promoting educational transformation. It aims to develop a service model that fosters academic engagement and social advancement."
 collection: portfolio 
 ---
-## Improving the performance and moving to newer dimensions in Derivative-Free Optimization
-Optimization Research grant PTDC/MAT-APL/28400/2017 funded by FCT (October 2018 - September 2022)
-[More informations here](https://docentes.fct.unl.pt/algb/pages/boostdfo)
+## Educational technologies in graphic expression: Exploring the paths of robotics (In Portuguese)
+Federal University of Paraná (January 2015 – July 2016)
+[More informations here](https://exatas.ufpr.br/blog/faq/as-tecnologias-educacionais-na-expressao-grafica-explorando-os-caminhos-da-robotica/)
 
-The goal of this project is to develop efficient and robust algorithms for Global and/or Multiobjective Derivative-free Optimization. This type of optimization is typically required in complex scientific/industrial applications, where the function evaluation is time consuming and derivatives are not available for use, neither can be numerically approximated. Often problems present several conflicting objectives or users aspire to obtain global solutions. 
+For a long time, the issue of disinterest and/or dropout rates in undergraduate programs in fields directly related to the sciences, especially in exact and technological sciences, has been discussed. This has prompted various initiatives aimed at mitigating these occurrences and their consequences for society. It is understood that this disinterest stems from the foundation of educational formation. In order to meet the demands of companies, industries, and all sectors that play a prominent role in society, particularly in production, facing technological demands that require conceptual and praxis innovations, there is a need for a new academic and professional profile. It is now known that academic training is far removed from this new reality and from social issues. There is a genuine crisis of ideas. Specialists are no longer able to address emerging problems in their fields of expertise. Education remains unchanged because those involved in it resist change. Scientific and technological development is largely responsible for the transformations occurring in the world. These transformations impose changes in values, habits, and cultures on society at such a rapid pace that those involved often lose track of this scenario. Consequently, paradigms have been called into question, and existing professional models are being challenged. The ability to embrace new challenges and fields will shape the profile of the 21st-century professional. Cartesian certainty gives way to a science that cannot eliminate risks but can propose a creative coexistence with uncertainties arising from the speed of technological changes. This will lead to a critical awareness to analyze risks and the courage to venture into new professional areas if necessary, either because existing ones become obsolete or because new opportunities and areas emerge. Navigating the academic world with grace will be an essential condition in this new professional profile. Professionals at all levels must be deeply committed to processes of social transformation. Alongside this commitment are common concerns shared by all, ranging from adapting to technological changes to ensuring their own survival. This commitment is tied to individual and group productivity and the quality of work performed. This new professional profile is directly linked to academic formation, encouraging a renewed interest in exact and technological sciences, aligning with the expectations outlined in this project. Therefore, we present an extension project in the field of Technological Education aimed at developing processes to construct a service model that promotes advancements in the educational and social sectors.
 
-Inspired by successful approaches used in single objective local Derivative-free Optimization, and resourcing to parallel/cloud computing, new numerical algorithms will be proposed and analyzed. As result, an integrated toolbox for solving multi/single objective, global/local Derivative-free Optimization problems will be available, taking advantage of parallelization and cloud computing, providing an easy access to several efficient and robust algorithms, and allowing to tackle harder Derivative-free Optimization problems.
+Doctoral Members: Adriana Augusta Benigno Dos Santos Luz (PI)
 
-
-Doctoral Members: Ana Luísa Custódio (PI), Pedro Medeiros (co-PI), Maria do Carmo Brás, Rohollah Garmanjani, and Vítor Duarte
-
-Students: Aboozar Mohammadi, Everton Silva, Sérgio Tavares,Tiago Cordeiro, Nelson Santos, and Bruno Baptista
-
-Consultants: Milagros Loreto (University of Washington Bothell) and Luís Nunes Vicente (Lehigh University)
+Students: Everton Silva

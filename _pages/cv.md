@@ -93,16 +93,21 @@ Computational Skills
 *	Knowledge of Advanced Office Package
 *	Latex
 
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Extended abstracts published in conference proceedings
+=====
+*	Silva, E. J.; Santos, L. B. Condições de Qualificação e Propriedades do Conjunto de Multiplicadores. In: J3M - Jornada de Matemática, Matemática Aplicada e Educação Matemática, Curitiba. Anais da J3M, 2017.
+*	Souza, B. F.; Silva, E. J.; Santos, L. B.  Condições Necessárias e Suficientes de Otimalidade para Problemas de Programação Não Linear. In: J3M - Jornada de Matemática, Matemática Aplicada e Educação Matemática, Curitiba. Anais da J3M, 2016.
+
+
 Theses
 ======
-* Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). Master thesis, Federal University of Paraná. https://acervodigital.ufpr.br/handle/1884/68962. 
+* Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). Master thesis, Federal University of Paraná. [Theses Link](https://acervodigital.ufpr.br/handle/1884/68962) 
   
 Talks
 ======
@@ -118,6 +123,13 @@ Talks
   *	X Simpósio de Análise Numérica e  Otimização. 2018. 
   *	I Formação Docente do IFPR. Contemplando a geometria em obras de artes. 2015.
   *	J3M - Jornada da Matemática, Matemática Aplicada e Educação Matemática. 2015.
+
+* Posters
+  * Silva, E. J.; Karas, E. W.; Santos L. B. Caracterizações Integrais para a Otimalidade Global: Casos Mono e Multiobjetivos. XII - Simpósio de Análise Numérica e Otimização. 2020.
+  * Silva, E. J.; Santos L. B. Algumas considerações sobre Condições de Qualificação para Problemas de Otimização. I Encontro Paranaense de Mulheres na Matemática (I EPRMM).  2018. 
+  *	Silva, E. J.; Santos L. B. Algumas considerações sobre Condições de Qualificaçao para Problemas de Otimização. J3M - Jornada de Matemática, Matemática Aplicada e Educação Matemática 2018. 
+  *	Silva, E. J.; Santos L. B. Condições de Qualificação e Propriedades do Conjunto de Multiplicadores. J3M - Jornada de Matemática, Matemática Aplicada e Educação Matemática 2017.
+  *	Souza, B. F.; Silva, E. J.; Santos L. B. Condições Necessárias e Suficientes de Otimalidade para Problemas de Programação Não Linear. J3M - Jornada de Matemática, Matemática Aplicada e Educação Matemática 2016.
 
 
 Teaching
