@@ -144,8 +144,8 @@ Research Centers
 
 Languages 
 =====
-Language |Speaking | Reading| Writing | Listening | Peer-review
-*	Portuguese – Mother tongue
-*	English – Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency(C1)
-*	Italian – Beginner (A1) |Beginner (A1) |Beginner (A1) | Elementary (A2) | Beginner (A1)
-*	Spanish – Beginner (A1) | Intermediate (B1) | Beginner (A1) | Intermediate (B1) | Elementary (A2)
+Language   |Speaking          | Reading           | Writing          | Listening         | Peer-review
+Portuguese | Mother tongue    |                   |                  |                   |
+English    | Proficiency (C1) | Proficiency (C1)  | Proficiency (C1) | Proficiency (C1)  | Proficiency(C1)
+Italian    | Beginner (A1)    |Beginner (A1)      |Beginner (A1)     | Elementary (A2)   | Beginner (A1)
+Spanish    | Beginner (A1)    | Intermediate (B1) | Beginner (A1)    | Intermediate (B1) | Elementary (A2)
