@@ -6,9 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-## DMS-Reduction
-
 ## LOG-DMS
+
+## DMS-Reduction
 
 ## LOG-DS
 
