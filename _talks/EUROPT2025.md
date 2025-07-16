@@ -3,7 +3,7 @@ title: "A Direct Multisearch Approach (DMS) for Many-Objective Derivative-Free O
 collection: talks
 type: "Congresses, Conferences, and Workshops"
 permalink: /talks/EUROPT2025
-slidesurl: 'http://evertonjdasilva.github.io/files/EUROTP2025_Slides.pdf'
+slidesurl: 'http://evertonjdasilva.github.io/files/EUROPT2025_Slides.pdf'
 venue: "EUROPT 2025 - Workshop on Advances in Continuous Optimization"
 date: 2025-07-02
 location: "Southampton, England"

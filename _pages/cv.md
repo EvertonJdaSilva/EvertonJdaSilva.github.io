@@ -107,6 +107,7 @@ Extended abstracts published in conference proceedings
 
 Theses
 ======
+* Silva, E. J. Constrained Multiobjective Derivative-free Optimization. Ph. D. thesis, NOVA University of Lisbon, July 2025.
 * Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). Master thesis, Federal University of Paraná. [Theses Link](https://acervodigital.ufpr.br/handle/1884/68962) 
   
 Talks
@@ -144,9 +145,8 @@ Research Centers
 
 Languages 
 =====
-| Language   |Speaking          | Reading           | Writing          | Listening         | Peer-review     |
-|------------|------------------|-------------------|------------------|-------------------|-----------------|
-| Portuguese | Mother tongue    |                   |                  |                   |                 |
-| English    | Proficiency (C1) | Proficiency (C1)  | Proficiency (C1) | Proficiency (C1)  | Proficiency(C1) |
-| Italian    | Beginner (A1)    |Beginner (A1)      |Beginner (A1)     | Elementary (A2)   | Beginner (A1)   |
-| Spanish    | Beginner (A1)    | Intermediate (B1) | Beginner (A1)    | Intermediate (B1) | Elementary (A2) |
+Language   (Speaking | Reading | Writing | Listening | Peer-review)
+Portuguese (Mother tongue)
+English  (Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency(C1))
+Italian (Beginner (A1) |Beginner (A1) |Beginner (A1) | Elementary (A2) | Beginner (A1))
+Spanish (Beginner (A1) | Intermediate (B1) | Beginner (A1) | Intermediate (B1) | Elementary (A2))
