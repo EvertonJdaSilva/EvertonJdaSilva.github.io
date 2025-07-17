@@ -66,8 +66,8 @@ var addressPoints = [
   ],
   [
     "Seminar at the Institute of Mathematics, Statistics and Scientific Computing 2025 <br /> University of Campinas; Campinas, BR", 
-    -25.451044,
-    -49.233127
+    -22.8048472,
+    -47.0697047
   ],
   [
     "Seminar at the Department of Computer, Control and Management Engineering 2023 <br /> Sapienza University of Rome; Rome, IT", 
@@ -76,7 +76,7 @@ var addressPoints = [
   ],
   [
     "Seminar at the Postgraduate Program in Mathematics (PPGM-UFPR 2022) <br /> Federal University of Paraná; Curitiba, BR", 
-    -25.4129671,
-    -49.2487869
+    -25.451044,
+    -49.233127
   ]
 ];
