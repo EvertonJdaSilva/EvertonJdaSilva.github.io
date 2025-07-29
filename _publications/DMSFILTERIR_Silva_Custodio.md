@@ -9,7 +9,7 @@ venue: 'Optimization Methods and Software'
 slidesurl: 'http://evertonjdasilva.github.io/files/ISMP2024_EvertonSilva.pdf'
 paperurl: 'http://evertonjdasilva.github.io/files/DMSFILTERIR_Silva_Custodio.pdf'
 bibtexurl: 'http://evertonjdasilva.github.io/files/bibtex2.bib'
-citation: 'E. J. Silva and A. L. Custódio. (2024). &quot;An Inexact Restoration Direct Multisearch Filter Approach to Multiobjective Constrained Derivative-free Optimization.&quot; <i>Optimization Methods and Software</i>. pp. 1–27. doi: 10.1080/10556788.2024.2412646.'
+citation: 'E. J. Silva and A. L. Custódio. (2025). &quot;An Inexact Restoration Direct Multisearch Filter Approach to Multiobjective Constrained Derivative-free Optimization.&quot; <i>Optimization Methods and Software, 40(2),</i> pp. 406--432. doi: 10.1080/10556788.2024.2412646.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

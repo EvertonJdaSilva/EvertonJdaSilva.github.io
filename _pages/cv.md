@@ -79,12 +79,12 @@ Fellowships
 
 Refereeing and Reviewing
 ======
-*	2023 - Operations Research Letters 
-*	2023 - Open Journal of Mathematical Optimization
-*	2024 - SIAM Journal on Optimization
-*	2024 - Ecological Modelling 
-*	2024 - Computational Optimization and Applications
 * 2025 - Optimization Methods and Software
+*	2024 - Computational Optimization and Applications
+*	2024 - Ecological Modelling 
+*	2024 - SIAM Journal on Optimization
+*	2023 - Open Journal of Mathematical Optimization
+*	2023 - Operations Research Letters 
 
 Computational Skills
 ======
@@ -107,8 +107,8 @@ Extended abstracts published in conference proceedings
 
 Theses
 ======
-* Silva, E. J. Constrained Multiobjective Derivative-free Optimization. Ph. D. thesis, NOVA University of Lisbon, July 2025.
-* Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). Master thesis, Federal University of Paraná. [Theses Link](https://acervodigital.ufpr.br/handle/1884/68962) 
+* Silva, E. J. Constrained Multiobjective Derivative-free Optimization. Ph. D. thesis, NOVA University of Lisbon, April 2025. [Thesis Link](http://hdl.handle.net/10362/185547)
+* Silva, E. J. Caracterizações integrais para otimalidade global: casos mono e multiobjetivo (In Portuguese). MSc thesis, Federal University of Paraná. [Thesis Link](https://acervodigital.ufpr.br/handle/1884/68962) 
   
 Talks
 ======
