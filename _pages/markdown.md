@@ -9,6 +9,8 @@ redirect_from:
 ## LOG-DMS
 
 ## DMS-Reduction
+Based on reduction approaches, employing correlation or sketching techniques, we propose a new variant of DMS, namely DMS-Reduction.
+This reduction method aims to tackle large problems by decreasing both the number of objective function components and the number of problem variables. Reducing the number of components of the objective function to be optimized at each iteration, has the additional benefit of potentially conducting to a reduction in the number of variables to be optimized, since there could be the case that not all variables are related to the objective function components selected. We detail the proposed algorithm and report a large set of numerical experiments that demonstrate the potential of this approach in addressing many-objective optimization problems.
 
 ## LOG-DS
 
