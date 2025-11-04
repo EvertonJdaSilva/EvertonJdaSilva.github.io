@@ -2,7 +2,7 @@
 title: "Matemática - Licenciatura em Gestão da Distribuição e Logistica"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2025-teaching-IPS_IO
+permalink: /teaching/2025-teaching-IPS_MAT
 venue: "Polytechnic Institute of Setúbal, Department of Economics and Management"
 date: 2025-03-03
 location: "Setúbal, Portugal"

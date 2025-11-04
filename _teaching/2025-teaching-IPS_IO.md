@@ -9,6 +9,7 @@ location: "Setúbal, Portugal"
 ---
 
 Programa da UC:
+
 # Introdução à Programação Linear
     o Formulação de problemas em Programação Linear
     o Resolução gráfica de problemas de Programação Linear
