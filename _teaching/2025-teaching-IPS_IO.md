@@ -11,8 +11,8 @@ location: "Setúbal, Portugal"
 Programa da UC:
 
 # Introdução à Programação Linear
-* o Formulação de problemas em Programação Linear
-* o Resolução gráfica de problemas de Programação Linear
+* Formulação de problemas em Programação Linear
+* Resolução gráfica de problemas de Programação Linear
 
 # O Algoritmo do Simplex
 
@@ -25,5 +25,8 @@ Programa da UC:
 # Avaliação contínua: 
 * 3 Testes individuais, presenciais
 * Nota Final = (Teste1 + Teste2 + Teste3)/3
+
+# Aprovação na UC
 * Nota Final ≥ 9,5
-* Inscrição obrigatória no Moodle (responder ao inquérito)
+
+* Inscrição obrigatória no Moodle (responder ao inquérito) 
