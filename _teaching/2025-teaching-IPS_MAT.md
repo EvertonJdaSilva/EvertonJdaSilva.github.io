@@ -18,9 +18,9 @@ suporte indispensável à prossecução de estudos nas ciências empresariais, f
 base sólida para enfrentar desafios académicos e profissionais.
 
 # B. OBJECTIVOS
-    Dominar a linguagem matricial
-    Saber operar com matrizes
-    Saber calcular determinantes
+* Dominar a linguagem matricial
+ Saber operar com matrizes
+*  Saber calcular determinantes
     Saber calcular a inversa de uma matriz
     Saber resolver matricialmente sistemas de equações lineares
     Conhecer o conceito de primitiva e aplicar os vários métodos de cálculo
