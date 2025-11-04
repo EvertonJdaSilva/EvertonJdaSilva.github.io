@@ -8,33 +8,26 @@ date: 2025-03-03
 location: "Setúbal, Portugal"
 ---
 
-# A. SÍNTESE DA UNIDADE CURRICULAR
-Os estudantes dos cursos de Gestão da Distribuição e Logística, diurno e pós-laboral, necessitam de
-diversas ferramentas matemáticas fundamentais, nomeadamente conhecimentos de cálculo integral,
-álgebra linear e programação linear. O domínio dos conceitos básicos nestas áreas é essencial não só para
-o desenvolvimento da intuição matemática e do raciocínio lógico, como também para a interpretação de
-literatura especializada, e de carácter menos técnico no âmbito da gestão. Para além disso, constitui um
-suporte indispensável à prossecução de estudos nas ciências empresariais, fornecendo aos estudantes uma
-base sólida para enfrentar desafios académicos e profissionais.
+Os estudantes dos cursos de Gestão da Distribuição e Logística, diurno e pós-laboral, necessitam de diversas ferramentas matemáticas fundamentais, nomeadamente conhecimentos de cálculo integral, álgebra linear e programação linear. O domínio dos conceitos básicos nestas áreas é essencial não só para o desenvolvimento da intuição matemática e do raciocínio lógico, como também para a interpretação de literatura especializada, e de carácter menos técnico no âmbito da gestão. Para além disso, constitui um suporte indispensável à prossecução de estudos nas ciências empresariais, fornecendo aos estudantes uma base sólida para enfrentar desafios académicos e profissionais.
 
 # B. OBJECTIVOS
 * Dominar a linguagem matricial
- Saber operar com matrizes
-*  Saber calcular determinantes
-    Saber calcular a inversa de uma matriz
-    Saber resolver matricialmente sistemas de equações lineares
-    Conhecer o conceito de primitiva e aplicar os vários métodos de cálculo
-    Saber calcular integrais
-    Saber identificar problemas simples de programação linear
-    Saber calcular a solução óptima de problemas simples de programação linear
+* Saber operar com matrizes
+* Saber calcular determinantes
+* Saber calcular a inversa de uma matriz
+* Saber resolver matricialmente sistemas de equações lineares
+* Conhecer o conceito de primitiva e aplicar os vários métodos de cálculo
+* Saber calcular integrais
+* Saber identificar problemas simples de programação linear
+* Saber calcular a solução óptima de problemas simples de programação linear
 
 # C. METODOLOGIA DE ENSINO/APRENDIZAGEM
 A UC é operacionalizada através do regime de ensino flexível, com metodologias de aprendizagem mistas. As aulas funcionam em regime totalmente presencial. As aulas são teórico práticas, correspondendo à articulação das metodologias expositivas com as indutivas, centradas no esforço e participação do estudante. Na vertente teórica privilegia-se o método expositivo/demonstrativo para apresentação dos conceitos, sempre apelando à participação ativa do estudante, e na vertente prática privilegiam-se os métodos ativos que proporcionam a discussão e aplicação em casos práticos dos conhecimentos adquiridos.
 
 # D. CONTEÚDOS PROGRAMÁTICOS
-    CP1 – Álgebra Linear: Matrizes e Álgebra Matricial; Determinantes; Matriz Inversa; Sistemas de equações lineares.
-    CP2 – Cálculo Integral: Primitivas; Técnicas de Primitivação; Integral Definido; Aplicações.
-    CP3 – Introdução à Programação Linear: O modelo de programação linear (PL); Resolução gráfica de problemas de PL.
+CP1 – Álgebra Linear: Matrizes e Álgebra Matricial; Determinantes; Matriz Inversa; Sistemas de equações lineares.
+CP2 – Cálculo Integral: Primitivas; Técnicas de Primitivação; Integral Definido; Aplicações.
+CP3 – Introdução à Programação Linear: O modelo de programação linear (PL); Resolução gráfica de problemas de PL.
 
 # E. BIBLIOGRAFIA
 AZENHA, A., e JERÓNIMO, M. (1995). Elementos de Cálculo Diferencial e Integral. McGraw-Hill.
@@ -53,12 +46,12 @@ Analysis, 5th Edition. Pearson.
 
 # F. SISTEMA DE AVALIAÇÃO
 * Avaliação contínua: A avaliação de conhecimentos é constituída pelas componentes:
-    C1 - 1ºTeste
-    C2 - 2ºTeste
+C1 - 1ºTeste
+C2 - 2ºTeste
 As notas de C1 e C2 são arredondadas a uma casa decimal.
 
 A nota final, NF, (arredondada às unidades) é dada por
-        NF = 50% x C1 +50% x C2
+NF = 50% x C1 +50% x C2
 
 Os dois testes têm nota mínima de 7,5 valores. Caso estas notas não sejam alcançadas, ou caso a nota final, arredondada às unidades, seja inferior a 10 valores, o aluno terá de realizar a avaliação final.
 
