@@ -47,6 +47,7 @@ Other Courses
 
 Teaching & Mentoring
 ======
+* Invited Adjunct Professor at the Department of Economics and Management, Polytechnic Institute of Setúbal (September 2025 to -- ).
 * Invited assistant professor at the Polytechnic Institute of Setúbal, delivering practical lectures in Operations Research for the Bachelor's Degree in Distribution and Logistics Management course (March to July 2025).
 * Co-supervision of student Marta Pozzi, from University of Pavia, Italy, Erasmus Internship, NOVA Math (March to May 2024).
 * Module of Multiobjective Linear Optimization of the Linear Optimization Course part of the MSc. Program in Analysis and Engineering of Big Data at NOVA University of Lisbon, 4  classes each with 2 hours, prepared the classes, developed complementary material, and participated in students’ evaluation (June 2022).
@@ -79,6 +80,8 @@ Fellowships
 
 Refereeing and Reviewing
 ======
+*	2025 - Optimization Letters
+*	2025 - Journal of Global Optimization
 * 2025 - Optimization Methods and Software
 *	2024 - Computational Optimization and Applications
 *	2024 - Ecological Modelling 
@@ -145,12 +148,12 @@ Research Centers
 
 Languages 
 =====
-Language   (Speaking | Reading | Writing | Listening | Peer-review)
+Language   (Speaking -- Reading -- Writing -- Listening -- Peer-review)
 
 Portuguese (Mother tongue)
 
-English  (Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency (C1) | Proficiency(C1))
+English  (Proficiency (C1) -- Proficiency (C1) -- Proficiency (C1) -- Proficiency (C1) -- Proficiency(C1))
 
-Italian (Beginner (A1) |Beginner (A1) |Beginner (A1) | Elementary (A2) | Beginner (A1))
+Italian (Beginner (A1) -- Beginner (A1) -- Beginner (A1) -- Elementary (A2) -- Beginner (A1))
 
-Spanish (Beginner (A1) | Intermediate (B1) | Beginner (A1) | Intermediate (B1) | Elementary (A2))
+Spanish (Beginner (A1) -- Intermediate (B1) -- Beginner (A1) -- Intermediate (B1) -- Elementary (A2))
