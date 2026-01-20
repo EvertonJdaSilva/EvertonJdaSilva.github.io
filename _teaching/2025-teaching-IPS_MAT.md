@@ -8,6 +8,13 @@ date: 2025-03-03
 location: "Setúbal, Portugal"
 ---
 
+Mathematics — Bachelor’s in Distribution and Logistics Management (60h)
+Role: Lecturer (theoretical and practical classes).
+Description: Designed and delivered problem-solving classes focused on integral calculus, linear algebra and formulation/solution of linear programming problems. Emphasized student-centered learning through active in-class problem solving and collaborative exercises. Adopted a blended teaching approach—combining traditional lectures with interactive activities and contemporary digital resources—to foster critical thinking and equip students with practical tools for academic and professional challenges.
+
+---
+
+
 Os estudantes dos cursos de Gestão da Distribuição e Logística, diurno e pós-laboral, necessitam de diversas ferramentas matemáticas fundamentais, nomeadamente conhecimentos de cálculo integral, álgebra linear e programação linear. O domínio dos conceitos básicos nestas áreas é essencial não só para o desenvolvimento da intuição matemática e do raciocínio lógico, como também para a interpretação de literatura especializada, e de carácter menos técnico no âmbito da gestão. Para além disso, constitui um suporte indispensável à prossecução de estudos nas ciências empresariais, fornecendo aos estudantes uma base sólida para enfrentar desafios académicos e profissionais.
 
 # OBJECTIVOS

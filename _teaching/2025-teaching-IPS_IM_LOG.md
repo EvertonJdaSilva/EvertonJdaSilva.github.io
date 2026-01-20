@@ -8,6 +8,12 @@ date: 2025-09-29
 location: "Setúbal, Portugal"
 ---
 
+Introduction to Mathematics — Higher Technical Course in Logistics (Professional – 50h)
+Role: Lecturer and Course Coordinator (theoretical and practical classes).
+Description: Description: Provided a basic grounding in mathematics and descriptive statistics to prepare students for management practice. The course emphasized logical reasoning in management literature, practical analytical skills for decision-making, and the ability to interpret quantitative information in professional contexts.
+
+---
+
 Esta Unidade Curricular (UC) pretende fornecer aos estudantes uma formação básica em Matemática e Estatística Descritiva, de forma que sejam capazes de compreender o raciocínio lógico inerente à literatura na área de gestão, assim como de desempenhar funções na área de Gestão atual.
 
 # SÍNTESE DA UNIDADE CURRICULAR

@@ -8,6 +8,12 @@ date: 2025-09-29
 location: "Setúbal, Portugal"
 ---
 
+Applied Mathematics — Bachelor’s in Marketing (45h)
+Role: Lecturer (theoretical and practical classes).
+Description: Delivered a foundational mathematics course for first-year Marketing students, emphasizing logical and analytical reasoning. The syllabus covered key topics in linear algebra and differential calculus essential for mathematical modelling, data analysis and problem-solving in economic and business contexts. Teaching combined structured lectures with practical sessions to develop students’ ability to apply mathematical tools to real-world marketing problems.
+
+---
+
 A unidade curricular de Matemática Aplicada fornece aos estudantes do 1.º ano de Marketing uma base sólida de raciocínio lógico e analítico. Aborda tópicos de Álgebra Linear e Cálculo Diferencial, essenciais para a compreensão de modelos, a análise de dados e a resolução de problemas em contextos económicos e empresariais.
 
 # SÍNTESE DA UNIDADE CURRICULAR 

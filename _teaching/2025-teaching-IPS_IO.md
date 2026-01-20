@@ -7,6 +7,13 @@ venue: "Polytechnic Institute of Setúbal, Department of Economics and Managemen
 date: 2025-03-03
 location: "Setúbal, Portugal"
 ---
+Operations Research — Bachelor’s in Distribution and Logistics Management (45h)
+
+Role: Lecturer (practical exercise sessions)
+Description: Delivered hands-on problem-solving sessions in Operations Research, covering the formulation of linear programming models, graphical solution methods, the Simplex algorithm, sensitivity analysis, and two canonical applications: the transportation and assignment problems. Emphasized student-centered learning through live walkthroughs of computational examples and collaborative in-class exercises. Integrated real-world logistics scenarios into exercises to foster applied understanding and practical problem-solving skills. Adopted a blended teaching approach combining structured demonstrations, interactive problem-solving, and computational tools to promote critical thinking and equip students with the technical and analytical skills required for academic and professional success.
+
+
+---
 O objetivo desta UC consiste em mostrar como é possível utilizar técnicas de optimização para tomar decisões precisas e oportunas. A ênfase será dada à formulação matemática de problemas através do modelo de programação linear, à resolução desses problemas e à posterior análise dos resultados obtidos. 
 
 Assim, pretende-se que o aluno:
