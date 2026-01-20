@@ -10,12 +10,12 @@ location: "Setúbal, Portugal"
 O objetivo desta UC consiste em mostrar como é possível utilizar técnicas de optimização para tomar decisões precisas e oportunas. A ênfase será dada à formulação matemática de problemas através do modelo de programação linear, à resolução desses problemas e à posterior análise dos resultados obtidos. 
 
 Assim, pretende-se que o aluno:
-OA1 – Aprenda a caracterizar um modelo de programação linear;
-OA2 – Saiba identificar e formular problemas de programação linear;
-OA3 – Saiba resolver problemas de programação linear;
-OA4 – Saiba analisar as soluções obtidas e proceder à análise de sensibilidade das mesmas;
-OA5 – Saiba identificar e formular problemas de programação linear inteira;
-OA6 – Saiba aplicar os conhecimentos adquiridos utilizando um software adequado.
+*OA1 –* Aprenda a caracterizar um modelo de programação linear;
+*OA2 –* Saiba identificar e formular problemas de programação linear;
+*OA3 –* Saiba resolver problemas de programação linear;
+*OA4 –* Saiba analisar as soluções obtidas e proceder à análise de sensibilidade das mesmas;
+*OA5 –* Saiba identificar e formular problemas de programação linear inteira;
+*OA6 –* Saiba aplicar os conhecimentos adquiridos utilizando um software adequado.
 
 # Introdução à Programação Linear
 * Formulação de problemas em Programação Linear
