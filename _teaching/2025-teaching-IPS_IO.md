@@ -10,12 +10,12 @@ location: "Setúbal, Portugal"
 O objetivo desta UC consiste em mostrar como é possível utilizar técnicas de optimização para tomar decisões precisas e oportunas. A ênfase será dada à formulação matemática de problemas através do modelo de programação linear, à resolução desses problemas e à posterior análise dos resultados obtidos. 
 
 Assim, pretende-se que o aluno:
-*OA1 –* Aprenda a caracterizar um modelo de programação linear;
-*OA2 –* Saiba identificar e formular problemas de programação linear;
-*OA3 –* Saiba resolver problemas de programação linear;
-*OA4 –* Saiba analisar as soluções obtidas e proceder à análise de sensibilidade das mesmas;
-*OA5 –* Saiba identificar e formular problemas de programação linear inteira;
-*OA6 –* Saiba aplicar os conhecimentos adquiridos utilizando um software adequado.
+    * OA1 – Aprenda a caracterizar um modelo de programação linear;
+    * OA2 – Saiba identificar e formular problemas de programação linear;
+    * OA3 – Saiba resolver problemas de programação linear;
+    * OA4 – Saiba analisar as soluções obtidas e proceder à análise de sensibilidade das mesmas;
+    * OA5 – Saiba identificar e formular problemas de programação linear inteira;
+    * OA6 – Saiba aplicar os conhecimentos adquiridos utilizando um software  adequado.
 
 # Conteúdo programático
 * Introdução à Programação Linear
@@ -30,6 +30,7 @@ Assim, pretende-se que o aluno:
 # Avaliação contínua: 
     * 3 Testes individuais, presenciais
     * Nota Final = (Teste1 + Teste2 + Teste3)/3
+
 # Aprovação na UC
     * Nota Final ≥ 9,5
     * Inscrição obrigatória no Moodle (responder ao inquérito) 
@@ -40,9 +41,15 @@ A UC é operacionalizada através do regime de ensino flexível, com metodologia
 
 # Bibliografia
 [1] BAZARAA M. S., JARVIS, J. J., SHERALI, H. D. (2010), Linear Programming and Network Flows, 4rd Edition, John Wiley & Sons.
+
 [2] HILLIER, F. S., Lieberman, G. J. (2021), Introduction to Operations Research – 11th Edition, McGraw-Hill, New York.
+
 [3] HILL, M. M., SANTOS, M. M. (2022), Investigação Operacional – Vol. 1 – Programação Linear, 4a Edição, Edições Sílabo, Lisboa.
+
 [4] HILL, M. M., SANTOS, M. M., MONTEIRO, A. L. (2015), Investigação Operacional – Vol. 3 – Transportes, Afectação e Optimização em Redes, 2a Edição, Edições Sílabo, Lisboa.
+
 [5] RAGSDALE, C. T. (2017), Spreadsheet Modeling & Decision Analysis, 5th Edition, Cengage Learning.
+
 [6] TAHA, H. A. (2022). Operations Research: An Introduction, 11th Edition. Pearsons.
+
 [7] WINSTON, W. L. (2003), Operations Research – Applications and Algorithms, 4th Edition, Thomson Learning.
