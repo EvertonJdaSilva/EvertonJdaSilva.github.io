@@ -8,9 +8,16 @@ date: 2025-03-03
 location: "Setúbal, Portugal"
 ---
 
+Mathematics — Bachelor’s in Distribution and Logistics Management (60h)
+Role: Lecturer (theoretical and practical classes).
+Description: Designed and delivered problem-solving classes focused on integral calculus, linear algebra and formulation/solution of linear programming problems. Emphasized student-centered learning through active in-class problem solving and collaborative exercises. Adopted a blended teaching approach—combining traditional lectures with interactive activities and contemporary digital resources—to foster critical thinking and equip students with practical tools for academic and professional challenges.
+
+---
+
+
 Os estudantes dos cursos de Gestão da Distribuição e Logística, diurno e pós-laboral, necessitam de diversas ferramentas matemáticas fundamentais, nomeadamente conhecimentos de cálculo integral, álgebra linear e programação linear. O domínio dos conceitos básicos nestas áreas é essencial não só para o desenvolvimento da intuição matemática e do raciocínio lógico, como também para a interpretação de literatura especializada, e de carácter menos técnico no âmbito da gestão. Para além disso, constitui um suporte indispensável à prossecução de estudos nas ciências empresariais, fornecendo aos estudantes uma base sólida para enfrentar desafios académicos e profissionais.
 
-# B. OBJECTIVOS
+# OBJECTIVOS
 * Dominar a linguagem matricial
 * Saber operar com matrizes
 * Saber calcular determinantes
@@ -21,37 +28,41 @@ Os estudantes dos cursos de Gestão da Distribuição e Logística, diurno e pó
 * Saber identificar problemas simples de programação linear
 * Saber calcular a solução óptima de problemas simples de programação linear
 
-# C. METODOLOGIA DE ENSINO/APRENDIZAGEM
+# METODOLOGIA DE ENSINO/APRENDIZAGEM
 A UC é operacionalizada através do regime de ensino flexível, com metodologias de aprendizagem mistas. As aulas funcionam em regime totalmente presencial. As aulas são teórico práticas, correspondendo à articulação das metodologias expositivas com as indutivas, centradas no esforço e participação do estudante. Na vertente teórica privilegia-se o método expositivo/demonstrativo para apresentação dos conceitos, sempre apelando à participação ativa do estudante, e na vertente prática privilegiam-se os métodos ativos que proporcionam a discussão e aplicação em casos práticos dos conhecimentos adquiridos.
 
-# D. CONTEÚDOS PROGRAMÁTICOS
-CP1 – Álgebra Linear: Matrizes e Álgebra Matricial; Determinantes; Matriz Inversa; Sistemas de equações lineares.
-CP2 – Cálculo Integral: Primitivas; Técnicas de Primitivação; Integral Definido; Aplicações.
-CP3 – Introdução à Programação Linear: O modelo de programação linear (PL); Resolução gráfica de problemas de PL.
+# CONTEÚDOS PROGRAMÁTICOS
+* CP1 – Álgebra Linear: Matrizes e Álgebra Matricial; Determinantes; Matriz Inversa; Sistemas de equações lineares.
+* CP2 – Cálculo Integral: Primitivas; Técnicas de Primitivação; Integral Definido; Aplicações.
+* CP3 – Introdução à Programação Linear: O modelo de programação linear (PL); Resolução gráfica de problemas de PL.
 
-# E. BIBLIOGRAFIA
-AZENHA, A., e JERÓNIMO, M. (1995). Elementos de Cálculo Diferencial e Integral. McGraw-Hill.
-BANDEIRA, L., Coelho, F. e Franco, N. (2016). Introdução à Matemática-Álgebra, Análise e Otimização.
-Lidel-Edições Técnicas.
-GONÇALVES, R. (2015). Matemática - Álgebra Linear, Teoria e Prática. Edições Sílabo, Lisboa.
-HILLIER, F. S., Lieberman, G. J. (2021), Introduction to Operations Research – 11th Edition, McGraw-Hill,
-New York.
-HILL, M. M., SANTOS, M. M. (2022), Investigação Operacional – Vol. 1 – Programação Linear, 4a Edição,
-Edições Sílabo, Lisboa.
-LARSON, R., Hostetler, R. P. e Edwards, B. H. (2006). Cálculo – Volume I (8ª edição). MacGraw-Hill.
-PISKOUNOV, N. (2000). Cálculo Diferencial e Integral, vol. 1. Lopes da Silva Editora.
-STEWART, J., Cálculo Volume 1 - Tradução da 8a Edição Norte Americana, 2017, Cengage Learning.
-SYDSAETER, K., Hammond, P., Strom, A. e Carvajal, A. (2016). Essential Mathematics for Economic
-Analysis, 5th Edition. Pearson.
+# BIBLIOGRAFIA
+[1] AZENHA, A., e JERÓNIMO, M. (1995). Elementos de Cálculo Diferencial e Integral. McGraw-Hill.
 
-# F. SISTEMA DE AVALIAÇÃO
+[2] BANDEIRA, L., Coelho, F. e Franco, N. (2016). Introdução à Matemática-Álgebra, Análise e Otimização. Lidel-Edições Técnicas.
+
+[3] GONÇALVES, R. (2015). Matemática - Álgebra Linear, Teoria e Prática. Edições Sílabo, Lisboa.
+
+[4] HILLIER, F. S., Lieberman, G. J. (2021), Introduction to Operations Research – 11th Edition, McGraw-Hill,New York.
+
+[5] HILL, M. M., SANTOS, M. M. (2022), Investigação Operacional – Vol. 1 – Programação Linear, 4a Edição, Edições Sílabo, Lisboa.
+
+[6] LARSON, R., Hostetler, R. P. e Edwards, B. H. (2006). Cálculo – Volume I (8ª edição). MacGraw-Hill.
+
+[7] PISKOUNOV, N. (2000). Cálculo Diferencial e Integral, vol. 1. Lopes da Silva Editora.
+
+[8] STEWART, J., Cálculo Volume 1 - Tradução da 8a Edição Norte Americana, 2017, Cengage Learning.
+
+[9] SYDSAETER, K., Hammond, P., Strom, A. e Carvajal, A. (2016). Essential Mathematics for Economic Analysis, 5th Edition. Pearson.
+
+# SISTEMA DE AVALIAÇÃO
 * Avaliação contínua: A avaliação de conhecimentos é constituída pelas componentes:
-C1 - 1ºTeste
-C2 - 2ºTeste
+    * C1 - 1ºTeste
+    * C2 - 2ºTeste
 As notas de C1 e C2 são arredondadas a uma casa decimal.
 
 A nota final, NF, (arredondada às unidades) é dada por
-NF = 50% x C1 +50% x C2
+    NF = 50% x C1 +50% x C2
 
 Os dois testes têm nota mínima de 7,5 valores. Caso estas notas não sejam alcançadas, ou caso a nota final, arredondada às unidades, seja inferior a 10 valores, o aluno terá de realizar a avaliação final.
 
@@ -61,13 +72,13 @@ Observação 1: A inscrição em Avaliação Contínua é obrigatória. Na UC de
 
 # Avaliação final
 Existem três épocas de avaliação final:
-Época Normal |1ª época (destina-se aos estudantes que não optaram pela avaliação contínua)
-A avaliação da época normal é constituída por um exame. Caso a nota do exame seja inferior a 10 valores
-não existirá aprovação.
-Época de Recurso | 2ª época (destina-se aos estudantes que não realizaram ou não obtiveram aproveitamento na
-época normal ou na avaliação contínua)
-O sistema de avaliação é o mesmo que na avaliação final da Época Normal.
-Época Especial:
-O sistema de avaliação é o mesmo que na Época de Recurso.
-Observação 2: Nas avaliações, não é permitido o uso de calculadora ou de qualquer outro aparelho
-eletrónico.
+* Época Normal -- 1ª época (destina-se aos estudantes que não optaram pela avaliação contínua)
+    A avaliação da época normal é constituída por um exame. Caso a nota do exame seja inferior a 10 valores não existirá aprovação.
+
+* Época de Recurso -- 2ª época (destina-se aos estudantes que não realizaram ou não obtiveram aproveitamento na época normal ou na avaliação contínua)
+    O sistema de avaliação é o mesmo que na avaliação final da Época Normal.
+
+* Época Especial:
+    O sistema de avaliação é o mesmo que na Época de Recurso.
+
+Observação 2: Nas avaliações, não é permitido o uso de calculadora ou de qualquer outro aparelho eletrónico.

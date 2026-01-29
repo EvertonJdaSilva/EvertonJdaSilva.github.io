@@ -8,4 +8,7 @@ date: 2022-06-01
 location: "Almada, Portugal"
 ---
 
-4 classes each with 2 hours, prepared the classes, developed complementary material, and participated in students’ evaluation.
+Role: Lecturer (master’s-level module -- 8h)
+Description: Invited by Professor Jorge Orestes Cerdeira (retired Full Professor, Department of Mathematics, NOVA School of Science and Technology) to design and deliver a dedicated module on Linear Multiobjective Optimization as part of the existing Linear Optimization syllabus. Conceived and produced comprehensive teaching materials, including well-structured slide decks, problem sets, and self-assessment exercises. Employed an interactive, student-centered pedagogy that balanced rigorous theoretical exposition with hands-on computational practice. Designed a project in which students developed algorithms to solve real-world problems, such as diet planning and cost optimization, fostering applied understanding of complex mathematical concepts. This approach promoted active learning, independent thinking, and adaptability to diverse student learning styles.
+
+---
