@@ -1,4 +1,11 @@
 var addressPoints = [
+  ["Optimization 2026 <br /> ISEG Lisbon School of Economics and Management; Lisbon, PT",
+    38.70969,
+    -9.15565],
+  ["3rd Derivative-Free Optimization Symposium(DFOS 2026) <br />  Université de Montréal; Montreal, CA",
+    45.501256244903985,
+    -73.6156847455764,
+  ],
   [
     "EUROPT 2025 – 22nd Conference on Advances in Continuous Optimization<br />University of Southampton; Southampton, UK",
     50.93535,
