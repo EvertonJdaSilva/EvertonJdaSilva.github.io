@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Brilli_Custodio_Liuzzi_Silva_2025
 excerpt: 'In this work, we propose the joint use of a mixed penalty-interior point method and direct search, for addressing nonlinearly constrained derivative-free optimization problems. A merit function is considered, wherein the set of nonlinear inequality constraints is divided into two groups: one treated with a logarithmic barrier approach, and another, along with the equality constraints, addressed using a penalization term. This strategy, is adapted and incorporated into a direct search method, enabling the effective handling of general nonlinear constraints. Convergence to KKT-stationary points is established under continuous differentiability assumptions, without requiring any kind of convexity. Using CUTEst test problems, numerical experiments demonstrate the robustness, efficiency, and overall effectiveness of the proposed method, when compared with state-of-the-art solvers.'
 date: 2025-04-24
-venue: 'arXiv'
+venue: 'Numerical Algorithms'
 slidesurl: 'http://evertonjdasilva.github.io/files/Smooth_LOGSIDPSM.pdf'
 paperurl: 'http://evertonjdasilva.github.io/files/Brilli_Custodio_Liuzzi_Silva_2025.pdf'
 bibtexurl: 'http://evertonjdasilva.github.io/files/bibtex3.bib'
