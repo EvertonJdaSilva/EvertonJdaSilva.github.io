@@ -46,8 +46,11 @@ Other Courses
 
 
 Teaching & Mentoring
-======
-* Invited Adjunct Professor at the Department of Economics and Management, Polytechnic Institute of Setúbal (September 2025 to -- ).
+=====
+* Invited Adjunct Professor at the Department of Economics and Management, Polytechnic University of Setúbal (September 2026 to -- ).
+* Co-supervision of student Ricardo Sardinha, from NOVA University of Lisbon, master in mathematics.
+* Invited Adjunct Professor at the Department of Economics and Management, Polytechnic Institute of Setúbal (September 2025 to -- Setember 2026).
+* Supervision of two curricular internships in the Professional Higher Technical Course (CTeSP) in Tourism Management, Polytechnic Institute of Setúbal, 2025–2026.
 * Invited assistant professor at the Polytechnic Institute of Setúbal, delivering practical lectures in Operations Research for the Bachelor's Degree in Distribution and Logistics Management course (March to July 2025).
 * Co-supervision of student Marta Pozzi, from University of Pavia, Italy, Erasmus Internship, NOVA Math (March to May 2024).
 * Module of Multiobjective Linear Optimization of the Linear Optimization Course part of the MSc. Program in Analysis and Engineering of Big Data at NOVA University of Lisbon, 4  classes each with 2 hours, prepared the classes, developed complementary material, and participated in students’ evaluation (June 2022).
